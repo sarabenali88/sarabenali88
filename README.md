@@ -71,7 +71,7 @@ Type: Stageopdracht
 Skills: HubSpot CMS, UX, stakeholder communication, content structuring
 
 Beschrijving:
-Ik ontwikkelde een demo-omgeving waarmee klanten direct kunnen zien wat het bedrijf precies doet en welke diensten bij het gekozen product horen.
+Ik ontwikkelde een demo-omgeving waarmee klanten direct kunnen zien wat het bedrijf doet en welke diensten bij het gekozen product horen.
 
 De omgeving bevat:
 
