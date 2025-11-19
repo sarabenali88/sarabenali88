@@ -33,6 +33,7 @@ Skills: Vue.js, procesmodellering, requirement analysis, UX
 
 Beschrijving:
 Een oplossing om het proces van laptop-imaging inzichtelijker en efficiënter te maken.
+
 We vervingen een Excel-gebaseerd proces door een gebruiksvriendelijke webapp:
 
 - Planning en status van imaging
@@ -70,13 +71,14 @@ Type: Stageopdracht
 Skills: HubSpot CMS, UX, stakeholder communication, content structuring
 
 Beschrijving:
-Ik ontwikkelde een demo-omgeving waarmee klanten direct kunnen zien wat het bedrijf precies doet en wat het gekozen product inhoudt.
+Ik ontwikkelde een demo-omgeving waarmee klanten direct kunnen zien wat het bedrijf precies doet en welke diensten bij het gekozen product horen.
+
 De omgeving bevat:
 
 - Interactieve componenten
 
 - Duidelijke user flows
 
-- Video's die de waarde van het product uitleggen
+- Video's die de waarde van het product en bedrijf uitleggen
 
-🔒 Screenshots/video’s met klantdata of betaalde features deel ik niet openbaar. Wel kan ik desgewenst veilige demo’s tonen tijdens een gesprek.
+🔒 Screenshots/video’s met bedrijfsinformatie deel ik niet openbaar. Wel kan ik desgewenst veilige demo’s tonen tijdens een gesprek.
