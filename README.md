@@ -7,6 +7,7 @@ Ik ben vierdejaars Software Engineering student aan de Hogeschool van Amsterdam 
 Op deze pagina vind je een selectie van projecten waar ik tijdens mijn studie en stage aan heb gewerkt.
 
 🚀 Uitgelichte Projecten
+
 🔹 Green Efficiency — R&D Research
 
 Type: Onderzoek + prototype (experiment)
